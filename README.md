@@ -1,4 +1,4 @@
-# Hotel Reyes — Website starter
+# Hotel Reyes Martínez — Website starter
 
 A responsive tropical/island-themed hotel landing page with:
 - Hotel presentation and island-inspired design (waves, flowers, palm, surf, crab motifs).
